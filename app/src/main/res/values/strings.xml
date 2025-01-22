@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="app_text">Мои дела</string>
+    <string name="count_of_done_duty">Выполнено -</string>
+    <string name="save">Сохранить</string>
+    <string name="cancle">Отмена</string>
+    <string name="task">Что надо сделать</string>
+    <string name="importance_frame">Важность</string>
+    <string name="delete">Удалить</string>
+    <string name="importance_none">Нет</string>
+    <string name="importance_low">Низкая</string>
+    <string name="importance_high">Высокая</string>
+    <string name="deadline">Сделать до</string>
+    <string name="no_date_selected">Даты нет</string>
+    <string-array name="priority_levels">
+        <item>None</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+</resources>

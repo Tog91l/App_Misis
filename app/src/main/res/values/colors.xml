@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="Support_Light_Separator"> #00000033</color>
+    <color name="Support_Light_Overlay">#0000000F</color>
+    <color name="Label_Light_Secondary">#00000099</color>
+    <color name="Label_Light_Tertiary">#00D4D4E6</color>
+    <color name="Label_Light_Disable">#00000026</color>
+    <color name="Color_Light_Red">#FF3B30</color>
+    <color name="Color_Light_Green">#34C759</color>
+    <color name="Color_Light_Blue">#007AFF</color>
+    <color name="Color_Light_Gray">#8E8E93</color>
+    <color name="Color_Light_Gray_Light">#D1D1D6</color>
+    <color name="Back_Light_Primary">#D7D5C6</color>
+    <!-- res/values/colors.xml -->
+    <color name="gray">#808080</color>
+    <color name="pale_red">#FFCCCC</color>
+    <color name="bright_red">#FF0000</color>
+
+</resources>
